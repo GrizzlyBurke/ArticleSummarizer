@@ -1,2 +1,7 @@
-# CivilWarDataMining
-A basic data mining project from 2016 for the UCF History MA program
+# ArticleSummarizer    
+A machine learning project to summarize a given paragraph or article
+
+# Plans
+[] Transformer for summarization
+[] Article scraper that bypasses paywalls
+[] Webapp to host summarizer
